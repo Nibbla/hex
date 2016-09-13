@@ -1,5 +1,5 @@
-/**
- * Created by Lukas on 13/09/2016.
- */
-public class helloworld {
+public class helloworld{
+    public static void main(String[]args){
+        System.out.println("Hello World");
+    }
 }
